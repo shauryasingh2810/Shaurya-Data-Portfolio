@@ -18,12 +18,10 @@ This portfolio showcases my projects in **Excel, SQL, Python, and Generative AI,
  1. Deloitte Data Analyst Simulation (Forage)  
 - Tools: Excel, Data Analysis, Reporting  
 - Focus: Conducted exploratory data analysis, identified trends and anomalies, created actionable insights for business decisions.  
-- [Project Files](./Deloitte-Data-Analyst)  
 
 2. Tata GenAI Data Analyst Simulation (Forage)  
 - Tools: Python, AI-powered Data Analysis  
-- Focus: Applied Generative AI techniques for predictive analytics, data visualization, and business strategy recommendations.  
-- [Project Files](./Tata-GenAI-Data-Analyst)  
+- Focus: Applied Generative AI techniques for predictive analytics, data visualization, and business strategy recommendations.   
 
 *You can add more projects later as you complete them.*
 
