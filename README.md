@@ -24,14 +24,11 @@ This portfolio showcases my projects in **Excel, SQL, Python, and Generative AI,
 - Tools: Excel, Data Analysis, Reporting  
 - Tasks: Explored datasets, identified trends, created visualizations, and recommended actionable business insights.  
 - Outcome: Gained hands-on experience in real-world data analysis for corporate decision-making.  
-- Certificate: [View Certificate](<https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy>)
 
  Tata GenAI Data Analyst Simulation (Forage)
 - Tools: Python, AI-powered Data Analysis  
 - Tasks: Applied Generative AI for predictive analytics, data visualization, and strategic business recommendations.  
 - Outcome: Developed insights and reports to support data-driven business strategies.  
-- Certificate: [View Certificate](<https://www.theforage.com/simulations/tata/data-analytics-t3zr>)
-
 
 
 ---
