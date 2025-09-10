@@ -15,6 +15,11 @@ This portfolio showcases my projects in **Excel, SQL, Python, and Generative AI,
 ---
 📂 Projects  
 
+ 1. Website Traffic Dashboard
+- Tools: Tableau Public
+- Focus: Created an interactive dashboard to analyze website traffic patterns, visitor behavior, and key metrics.
+🔗 View Dashboard https://public.tableau.com/app/profile/shaurya.singh8249/viz/WebsiteTrafficDashBoard/WebsiteTrafficDashboard1
+
  1. Deloitte Data Analyst Simulation (Forage)  
 - Tools: Excel, Data Analysis, Reporting  
 - Focus: Conducted exploratory data analysis, identified trends and anomalies, created actionable insights for business decisions.  
