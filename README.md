@@ -20,15 +20,19 @@ This portfolio showcases my projects in **Excel, SQL, Python, and Generative AI,
 - Focus: Created an interactive dashboard to analyze website traffic patterns, visitor behavior, and key metrics.
 🔗 View Dashboard https://public.tableau.com/app/profile/shaurya.singh8249/viz/WebsiteTrafficDashBoard/WebsiteTrafficDashboard1
 
- 1. Deloitte Data Analyst Simulation (Forage)  
+ Deloitte Data Analyst Simulation (Forage)
 - Tools: Excel, Data Analysis, Reporting  
-- Focus: Conducted exploratory data analysis, identified trends and anomalies, created actionable insights for business decisions.  
+- Tasks: Explored datasets, identified trends, created visualizations, and recommended actionable business insights.  
+- Outcome: Gained hands-on experience in real-world data analysis for corporate decision-making.  
+- Certificate: [View Certificate](<https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy>)
 
-2. Tata GenAI Data Analyst Simulation (Forage)  
+ Tata GenAI Data Analyst Simulation (Forage)
 - Tools: Python, AI-powered Data Analysis  
-- Focus: Applied Generative AI techniques for predictive analytics, data visualization, and business strategy recommendations.   
+- Tasks: Applied Generative AI for predictive analytics, data visualization, and strategic business recommendations.  
+- Outcome: Developed insights and reports to support data-driven business strategies.  
+- Certificate: [View Certificate](<https://www.theforage.com/simulations/tata/data-analytics-t3zr>)
 
-*You can add more projects later as you complete them.*
+
 
 ---
 🔗 Connect With Me  
