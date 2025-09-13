@@ -16,19 +16,25 @@ This portfolio showcases my projects in **Excel, SQL, Python, and Generative AI,
 📂 Projects  
 
  1. Website Traffic Dashboard
-- Tools: Tableau Public
-- Focus: Created an interactive dashboard to analyze website traffic patterns, visitor behavior, and key metrics.
-🔗 View Dashboard https://public.tableau.com/app/profile/shaurya.singh8249/viz/WebsiteTrafficDashBoard/WebsiteTrafficDashboard1
+    - Tools: Tableau Public
+    - Focus: Created an interactive dashboard to analyze website traffic patterns, visitor behavior, and key metrics.
+    - 🔗 [View Dashboard](https://public.tableau.com/app/profile/shaurya.singh8249/viz/WebsiteTrafficDashBoard/WebsiteTrafficDashboard1)
 
- Deloitte Data Analyst Simulation (Forage)
-- Tools: Excel, Data Analysis, Reporting  
-- Tasks: Explored datasets, identified trends, created visualizations, and recommended actionable business insights.  
-- Outcome: Gained hands-on experience in real-world data analysis for corporate decision-making.  
+ 2. Superstore Sales Performance Dashboard**  
+   - Tools: Tableau Public  
+   - Focus: Built an interactive dashboard analyzing sales, profit, orders, and average order value (AOV).  
+   - Features: KPI cards, sales trends, category breakdown, profit by region, and clean design with custom colors.  
+   - 🔗 [View Dashboard](https://public.tableau.com/app/profile/shaurya.singh8249/viz/SalesDashboard_17576989839030/Dashboard1)
+     
+ 3. Deloitte Data Analyst Simulation (Forage)
+  - Tools: Excel, Data Analysis, Reporting  
+  - Tasks: Explored datasets, identified trends, created visualizations, and recommended actionable business insights.  
+  - Outcome: Gained hands-on experience in real-world data analysis for corporate decision-making.  
 
- Tata GenAI Data Analyst Simulation (Forage)
-- Tools: Python, AI-powered Data Analysis  
-- Tasks: Applied Generative AI for predictive analytics, data visualization, and strategic business recommendations.  
-- Outcome: Developed insights and reports to support data-driven business strategies.  
+ 4. Tata GenAI Data Analyst Simulation (Forage)
+  - Tools: Python, AI-powered Data Analysis  
+  - Tasks: Applied Generative AI for predictive analytics, data visualization, and strategic business recommendations.  
+  - Outcome: Developed insights and reports to support data-driven business strategies.  
 
 
 ---
