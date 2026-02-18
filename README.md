@@ -31,7 +31,7 @@ This portfolio showcases my projects in Excel, and Generative AI, along with pra
   - Outcome: Gained hands-on experience in real-world data analysis for corporate decision-making.  
 
  4. Tata GenAI Data Analyst Simulation (Forage)
-  - Tools: Python, AI-powered Data Analysis  
+  - Tools: AI-powered Data Analysis  
   - Tasks: Applied Generative AI for predictive analytics, data visualization, and strategic business recommendations.  
   - Outcome: Developed insights and reports to support data-driven business strategies.  
 
@@ -43,7 +43,7 @@ This portfolio showcases my projects in Excel, and Generative AI, along with pra
 
 ---
 🔗 Connect With Me  
-- LinkedIn: https://www.linkedin.com/in/shaurya-singh-121/ 
+- LinkedIn: [https://www.linkedin.com/in/shaurya-singh-121/ ](https://www.linkedin.com/in/shaurya-singh121/)
 - Email: shauryasingh2810@gmail.com
 
 ---
