@@ -1,15 +1,13 @@
-📊 Shaurya Singh – Data Analytics Portfolio  
+📊 Shaurya Singh – Portfolio  
 
 Hi, I’m Shaurya Singh, a B.Com (Hons.) student at Delhi University with a passion for Data Analytics, AI, and Business Strategy.  
-This portfolio showcases my projects in Excel, SQL, Python, and Generative AI, along with practical simulations from Deloitte, Tata, Microsoft, and Google Cloud.  
+This portfolio showcases my projects in Excel, and Generative AI, along with practical simulations from Deloitte, Tata, Microsoft, and Google Cloud.  
 ---
 
 🎓 Certifications 
 
   → Google Data Analytics Professional Certificate (Coursera) 
-  → Foundations of data analysis, SQL, Excel, and data-driven decision making.  
-  → Data Analysis with Python (Coursera)  
-  → Data wrangling, exploratory data analysis, visualization, and predictive modeling with Python.  
+  → Data Analysis with Python (Coursera)    
   → Forage Virtual Experiences: Deloitte Data Analyst, Tata GenAI Data Analyst  
   → LinkedIn Learning: Introduction to Prompt Engineering, Generative AI Search, etc.  
 
@@ -45,7 +43,7 @@ This portfolio showcases my projects in Excel, SQL, Python, and Generative AI, a
 
 ---
 🔗 Connect With Me  
-- LinkedIn: https://www.linkedin.com/in/shaurya-singh-75047927b/ 
+- LinkedIn: https://www.linkedin.com/in/shaurya-singh-121/ 
 - Email: shauryasingh2810@gmail.com
 
 ---
