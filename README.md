@@ -14,28 +14,23 @@ This portfolio showcases my projects in Excel, and Generative AI, along with pra
 ---
 📂 Projects  
 
- 1. Website Traffic Dashboard
-    - Tools: Tableau Public
-    - Focus: Created an interactive dashboard to analyze website traffic patterns, visitor behavior, and key metrics.
-    - 🔗 [View Dashboard](https://public.tableau.com/app/profile/shaurya.singh8249/viz/WebsiteTrafficDashBoard/WebsiteTrafficDashboard1)
-
- 2. Superstore Sales Performance Dashboard**  
+ 1. Superstore Sales Performance Dashboard**  
    - Tools: Tableau Public  
    - Focus: Built an interactive dashboard analyzing sales, profit, orders, and average order value (AOV).  
    - Features: KPI cards, sales trends, category breakdown, profit by region, and clean design with custom colors.  
    - 🔗 [View Dashboard](https://public.tableau.com/app/profile/shaurya.singh8249/viz/SalesDashboard_17576989839030/Dashboard1)
      
- 3. Deloitte Data Analyst Simulation (Forage)
+ 2. Deloitte Data Analyst Simulation (Forage)
   - Tools: Excel, Data Analysis, Reporting  
   - Tasks: Explored datasets, identified trends, created visualizations, and recommended actionable business insights.  
   - Outcome: Gained hands-on experience in real-world data analysis for corporate decision-making.  
 
- 4. Tata GenAI Data Analyst Simulation (Forage)
+ 3. Tata GenAI Data Analyst Simulation (Forage)
   - Tools: AI-powered Data Analysis  
   - Tasks: Applied Generative AI for predictive analytics, data visualization, and strategic business recommendations.  
   - Outcome: Developed insights and reports to support data-driven business strategies.  
 
-5. **Customer Churn Prediction & Retention Strategy Model** *(In Progress)*  
+4. **Customer Churn Prediction & Retention Strategy Model** *(In Progress)*  
  - Built a machine learning model to predict customer churn and identify key drivers such as tenure, contract type, and monthly charges.  
  - Created an interactive dashboard to visualize churn patterns and help business users explore high-risk customer segments.  
  - Unique Feature: Integrated Generative AI to generate **personalized retention messages** for at-risk customers, making the model actionable for real-world business use.  
